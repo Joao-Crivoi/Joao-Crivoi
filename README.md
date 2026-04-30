@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;2x+National+Hackathon+Winner+%F0%9F%8F%86;.NET+%7C+React+%7C+Vue.js+%7C+TypeScript;AI+Enthusiast+%26+Game+Dev+Hobbyist+%F0%9F%8E%AE;Building+the+SaaS+RGB+%F0%9F%8C%88" alt="Typing SVG" />
 </div>
 
+### 🌐 Versão em Português 🖱️ 
+<a href="./README.pt-BR.md">
+  <img src="https://img.shields.io/badge/🇧🇷%20Versão%20em%20Português-Clique%20Aqui-10b981?style=for-the-badge" alt="Portuguese Version"/>
+</a>
+
 <!-- BADGES ROW 1 - SOCIAL & STATUS -->
 <p align="center">
   <a href="https://github.com/Joao-Crivoi">
@@ -82,39 +87,6 @@ const developer = {
     </td>
   </tr>
 </table>
-
----
-
-## 💼 Professional Experience
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#7c3aed','primaryTextColor':'#fff','primaryBorderColor':'#a855f7','lineColor':'#f59e0b','secondaryColor':'#1e1b4b','tertiaryColor':'#ec4899'}}}%%
-timeline
-    title Professional Journey
-    2019 : Technical High School Graduate (IFMA)
-         : Information Technician Certification
-    2020-2024 : Freelance & Volunteer Work
-              : Multiple client projects
-              : Community contributions
-    2024 : Corporate Internship
-         : COBOL → Java Spring Boot migration
-         : Vue.js frontend development
-         : JasperReports integration
-    2025 : Systems Analysis Graduate (IFSP)
-         : 2x National Hackathon Awards
-         : Focus on .NET & Full Stack
-```
-
-</div>
-
-### 🔧 Internship Highlights
-
-- **Modernized legacy COBOL systems** → Java Spring Boot + Vue.js architecture
-- **Delivered end-to-end features**: frontend, backend, and dynamic reporting modules
-- **Technologies**: JasperReports, Oracle Database, PostgreSQL
-- **Impact**: Improved system maintainability and user experience
 
 ---
 
@@ -343,18 +315,6 @@ graph LR
   <img src="https://komarev.com/ghpvc/?username=Joao-Crivoi&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-### 🌐 Also Available in Portuguese
-<a href="./README.pt-BR.md">
-  <img src="https://img.shields.io/badge/🇧🇷%20Versão%20em%20Português-Clique%20Aqui-10b981?style=for-the-badge" alt="Portuguese Version"/>
-</a>
-
----
-
-<p align="center">
-  <i>⚡ "Building the future, one commit at a time" ⚡</i>
-</p>
-
-</div>
 
 <!-- ANIMATED FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,9,8,10,24&height=120&section=footer"/>
