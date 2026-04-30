@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- ANIMATED FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,9,8,10,24&height=120&section=footer"/>
+
 <!-- ANIMATED HEADER WITH GRADIENT -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,6,8,10,24&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20future%20with%20.NET%20%7C%20AI%20%7C%20Innovation&descAlignY=55&descSize=18"/>
 
