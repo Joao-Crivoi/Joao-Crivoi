@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- FOOTER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10,24&height=120&section=footer"/>
+
 <!-- HEADER ANIMADO COM GRADIENTE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10,24&height=200&section=header&text=Desenvolvedor%20Full%20Stack&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Construindo%20o%20futuro%20com%20.NET%20%7C%20IA%20%7C%20Inovação&descAlignY=55&descSize=18"/>
 
@@ -7,6 +10,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Desenvolvedor+Full+Stack+Júnior+%F0%9F%9A%80;2x+Vencedor+de+Hackathons+Nacionais+%F0%9F%8F%86;.NET+%7C+React+%7C+Vue.js+%7C+TypeScript;Entusiasta+de+IA+%26+Game+Dev+%F0%9F%8E%AE;Construindo+o+SaaS+RGB+%F0%9F%8C%88" alt="Typing SVG" />
 </div>
+
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/🇺🇸%20English%20Version-Click%20Here-10b981?style=for-the-badge" alt="English Version"/>
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joao-Crivoi&label=Visualizações%20do%20Perfil&color=7c3aed&style=for-the-badge" alt="Visualizações do Perfil"/>
+</p>
+
+---
 
 <!-- BADGES LINHA 1 - SOCIAL & STATUS -->
 <p align="center">
@@ -337,24 +350,6 @@ graph LR
 - 🎯 **Buscando** - Vagas de Desenvolvedor Full Stack (Júnior/Pleno)
 - 💡 **Especialização** - Ecossistema .NET, React, Vue.js, TypeScript
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joao-Crivoi&label=Visualizações%20do%20Perfil&color=7c3aed&style=for-the-badge" alt="Visualizações do Perfil"/>
-</p>
-
-### 🌐 Também Disponível em Inglês
-<a href="./README.md">
-  <img src="https://img.shields.io/badge/🇺🇸%20English%20Version-Click%20Here-10b981?style=for-the-badge" alt="English Version"/>
-</a>
-
----
-
-<p align="center">
-  <i>⚡ "Construindo o futuro, um commit por vez" ⚡</i>
-</p>
-
-</div>
 
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10,24&height=120&section=footer"/>
