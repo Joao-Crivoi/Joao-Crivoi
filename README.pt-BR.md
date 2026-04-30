@@ -98,39 +98,6 @@ const desenvolvedor = {
 
 ---
 
-## 💼 Experiência Profissional
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#7c3aed','primaryTextColor':'#fff','primaryBorderColor':'#a855f7','lineColor':'#f59e0b','secondaryColor':'#1e1b4b','tertiaryColor':'#ec4899'}}}%%
-timeline
-    title Jornada Profissional
-    2019 : Técnico em Informática (IFMA)
-         : Certificação Concluída
-    2020-2024 : Trabalho Freelance & Voluntário
-              : Múltiplos projetos para clientes
-              : Contribuições comunitárias
-    2024 : Estágio Corporativo
-         : Migração COBOL → Java Spring Boot
-         : Desenvolvimento frontend Vue.js
-         : Integração JasperReports
-    2025 : Graduação em Análise de Sistemas (IFSP)
-         : 2x Prêmios em Hackathons Nacionais
-         : Foco em .NET & Full Stack
-```
-
-</div>
-
-### 🔧 Destaques do Estágio
-
-- **Modernizei sistemas legados COBOL** → Arquitetura Java Spring Boot + Vue.js
-- **Entreguei features end-to-end**: frontend, backend e módulos de relatórios dinâmicos
-- **Tecnologias**: JasperReports, Oracle Database, PostgreSQL
-- **Impacto**: Melhorei manutenibilidade do sistema e experiência do usuário
-
----
-
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
