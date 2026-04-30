@@ -8,8 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;2x+National+Hackathon+Winner+%F0%9F%8F%86;.NET+%7C+React+%7C+Vue.js+%7C+TypeScript;AI+Enthusiast+%26+Game+Dev+Hobbyist+%F0%9F%8E%AE;Building+the+SaaS+RGB+%F0%9F%8C%88" alt="Typing SVG" />
 </div>
 
-### 🌐 Versão em Português 🖱️ 
+### 
 <a href="./README.pt-BR.md">
+  🌐 Versão em Português 🖱️ 
   <img src="https://img.shields.io/badge/🇧🇷%20Versão%20em%20Português-Clique%20Aqui-10b981?style=for-the-badge" alt="Portuguese Version"/>
 </a>
 
