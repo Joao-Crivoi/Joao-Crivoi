@@ -51,11 +51,11 @@ const developer = {
     location: "Praia Grande / São Paulo, Brazil",
     
     experience: {
-        professional: "1 year (Freelancer + Volunteer + Internship)",
+        professional: "2 years Dev and 1 year Tech Support",
         education: "7 years (Technical + Academic + Courses + Achievements)"
     },
     
-    focus: [".NET Ecosystem", "Full Stack", "Future: Mobile Development"],
+    focus: [".NET and Node Ecosystem", "Full Stack", "Future: Mobile Development"],
     
     hobbies: ["Game Dev with Unity", "AI Integrations", "React/TypeScript Projects"],
     
@@ -281,7 +281,7 @@ graph LR
     style F fill:#10b981,stroke:#f59e0b,stroke-width:3px,color:#fff
 ```
 
-### 🎯 Short-term Goals (2025)
+### 🎯 Short-term Goals (2026)
 - 📱 Start **Mobile Development** journey (React Native / .NET MAUI)
 - 🦀 Deep dive into **Rust** for performance-critical applications
 
